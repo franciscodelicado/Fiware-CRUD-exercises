@@ -12,3 +12,7 @@ Los ejercicios están organizados en distintos _branches_ de este repositorio, s
 -**`query`**: contiene ejercicios de consultas avanzadas para filtrar entidades y atributos en NGSI-v2.
 
 -**`subscriptions`**: contiene ejercicios para gestionar suscripciones a cambios en entidades y atributos en NGSI-v2.
+
+#TODO: Añadir contenido al branch CRUD
+#TODO: Añadir contenido al branch BATCH
+#TODO: Añadir contenido al branch SUBSCRIPTIONS
